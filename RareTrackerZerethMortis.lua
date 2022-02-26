@@ -38,5 +38,9 @@ RareTracker.RegisterRaresForModule({
         [183764] = {L[183764], 65251, {43.1, 32.0}}, -- "Zatojin"
         [183953] = {L[183953], 65273, {47.5, 62.2}}, -- "Corrupted Architect"
         [181360] = {L[181360], 65239, {39.4, 56.1}}, -- "Vexis"
+        -- Dune rares.
+        [182114] = {L[182114], 65585, {63.1, 24.1}}, -- "Iska, Outrider of Ruin"
+        [182155] = {L[182155], 65586, {63.1, 24.1}}, -- "High Reaver Damaris"
+        [182158] = {L[182158], 65587, {63.1, 24.1}}, -- "Rianimatrox Marzan"
     },
 })
