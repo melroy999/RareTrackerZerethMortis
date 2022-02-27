@@ -41,6 +41,6 @@ RareTracker.RegisterRaresForModule({
         -- Dune rares.
         [182114] = {L[182114], 65585, {63.1, 24.1}}, -- "Iska, Outrider of Ruin"
         [182155] = {L[182155], 65586, {63.1, 24.1}}, -- "High Reaver Damaris"
-        [182158] = {L[182158], 65587, {63.1, 24.1}}, -- "Rianimatrox Marzan"
+        [182158] = {L[182158], 65587, {63.1, 24.1}}, -- "Reanimatrox Marzan"
     },
 })
